@@ -1,0 +1,8 @@
+---
+packages:
+  lionel_train: !include
+    file: lionel-train.yaml
+    vars:
+      mac_address: DC:F5:F5:60:3C:B8
+      name: hogwarts_express
+      service_uuid: e20a39f4-73f5-4bc4-a12f-17d1ad07a961
